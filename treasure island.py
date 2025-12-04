@@ -8,4 +8,4 @@ print('''
 
  ''')
 print("Welcome to Treasure Island.\nYour mission is to find the treasure")
-if 
+#didnt complete
